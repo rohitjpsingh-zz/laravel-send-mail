@@ -1,0 +1,35 @@
+array:23 [▼
+  "_token" => "LfwlxXYFk2eFKYD6GIa4wxXKxsywRTLpmq1ZDISV"
+  "email" => "sacuxiwif@mailinator.com"
+  "description" => "Qui excepteur ration"
+  "subject" => "Est qui laborum mol"
+  "sender_email" => "qukabebi@mailinator.com"
+  "sender_fullname" => "Hakeem Evans"
+  "reply_to_email" => "cutacazady@mailinator.com"
+  "reply_to_fullname" => "Hamilton Mcfadden"
+  "charset" => "Chinese simplified(GB2312)"
+  "line_feed_after" => "94"
+  "format" => "Only text"
+  "measure_open_rate" => "at bottom of email"
+  "template" => "Ut est eos nostrum N"
+  "mailing_list" => "1"
+  "get_email_cmpgn" => array:2 [▼
+    0 => "riteshhir@gmail.com"
+    1 => "hadvanikishan12@gmail.com"
+  ]
+  "archive" => "at bottom of email"
+  "show_archive" => "on"
+  "mailing_type" => "Action based mailing"
+  "editor_text" => "<b><u>Veniam, occaecat eli.</u></b>"
+  "has_email_cron" => "yes"
+  "delivery_date" => "2021-01-20"
+  "delivery_time_hour" => "15"
+  "delivery_time_minute" => "05"
+]
+
+
+
+Disable past date 
+Send Email When Cron option Disable
+Save Data in new table
+Save Mail in with mail content
